@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968363243988",
+    "project_id": "armariointeligente-b99a5",
+    "storage_bucket": "armariointeligente-b99a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968363243988:android:8a7b3e69b52d5e915f7e41",
+        "android_client_info": {
+          "package_name": "com.example.armario_inteligente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz9C10v9SBDBl5YvJtrfDZssZ2phDw5YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

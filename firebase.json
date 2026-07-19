@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "armariointeligente-b99a5",
+          "appId": "1:968363243988:android:8a7b3e69b52d5e915f7e41",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "armariointeligente-b99a5",
+          "configurations": {
+            "android": "1:968363243988:android:8a7b3e69b52d5e915f7e41",
+            "ios": "1:968363243988:ios:1e1d11f1dda00d4a5f7e41",
+            "macos": "1:968363243988:ios:1e1d11f1dda00d4a5f7e41",
+            "web": "1:968363243988:web:05ce6381d69f189d5f7e41",
+            "windows": "1:968363243988:web:99dd8edfdbd4d30f5f7e41"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
